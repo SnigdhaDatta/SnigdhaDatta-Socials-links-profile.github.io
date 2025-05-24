@@ -72,14 +72,10 @@ p{
     margin-bottom:9% ;
     color: white;
 }
-/* eta h6e jkhn click krbe tkhn effect debe, clicking er bu shortening the height of the buttons */
  button:active{ 
     position: var(80%);
     height: 40px;
 }
-/*we use media queries jate same code ei amra onno device er screen size e kmn appear krbe seta control krte pari , noile mobile er jnne tab er jnne lada kre css code likhte hbe which is impossible */
-/*max width mane ei width obdhi e erm thakbe measuremnts of components*/
-/* Min width mane ei width theke tar porer width gulote erom measuremnt thakbe jerom media screen er under e likhe rakhbe */
 @media screen and (max-width: 976px){
         .parent{
             flex-direction: column;
@@ -99,46 +95,6 @@ p{
         button{
             height: 50px;
         }
-        /*.writings{
-            height: 20%;
-        }
-        /*.buttons{
-            width:60%;
-        }
-        p{
-            font-size: 70%;
-        }
-        h3{
-            font-size: 80%;
-        }
-        h2{
-            font-size: 100%;
-        }
-        img{
-            height: 70px;
-        } */
-    }
-    /*@media screen and (max-width: 576px){
-        .parent{
-            height: 85% ;
-        }
-        h3{
-            font-size: 80%;
-        }
-        h2{
-            font-size: 100%;
-        }
-        p{
-            font-size: 70%;
-        }
-        .writings{
-            height: 20%;
-        }
         
-        button{
-            border-radius: 20px;
-        }
-    }*/
-/* b{ */
-    /* position: relative; */
-/* } */
+    }
+    
