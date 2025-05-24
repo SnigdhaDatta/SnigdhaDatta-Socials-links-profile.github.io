@@ -15,7 +15,6 @@
     background-color:rgba(123, 66, 40, 0.527); 
     border-radius: 20px;
     display: flex;
-    /* flex-wrap: wrap; */
     flex-direction: column;
     align-items: center;
     object-fit: contain;
@@ -43,9 +42,6 @@ body{
 button{
     width: 85%;
     height: 50px;
-    /*padding : 30px;   
-    padding-top: 15px;
-    padding-bottom: 15px; */
     cursor:pointer;
     border: solid black ;
     border-left-width:1px ;
@@ -55,11 +51,6 @@ button{
     border-right-width: 5px;
     margin-bottom: 10px;
 }
-/* jkhn mouse ta button er upor hover kkrbo tkhn erokom akta effect jate dae , ekhane button er height choto hye jbe , giving u the experience of clicking */
-/*button:hover{
-    height: 40px;
-
-}*/
 h2{
     color:whitesmoke ;
     text-shadow: 50px;
