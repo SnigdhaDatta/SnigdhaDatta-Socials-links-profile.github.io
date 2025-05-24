@@ -1,10 +1,3 @@
-/* To minimize line spacing between two block elements in CSS, you can use the line-height property on the parent element or, in some cases */
-/* to center a div vertically and horizontally using transform and translate, you can use the following technique: Set the position of the div to “absolute” and specify a top and left value of “50%” */
-/* you can use the clip-path property to clip the image to a basic shape like a circle or polygon, or the shape-outside property to define a shape for the wrapping of inline content around the image. */
-/* display:contents is used in a child class to make the content of child class appear in the same layout of the content of parent class, this dispaly content attribute makes the child clss behave like the parent class as its sibling , used only for layout purposes */
-
-/* doing this padding 0 and box modelling is necessay for all websites before building because website browser nijer padding ba margin always implement kre nijerso properties thke kichu , so jate margin and padding amaderi show kre and consider hy hence we are doing this. To get the desired measurements in stylinng */
-/* jotota width and height amra di6i or mddhei content adjust hbe */
 *{
     margin: 0;
     padding: 0;
