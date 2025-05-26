@@ -35,9 +35,9 @@ A clean and responsive web profile page to showcase your **social media links** 
 ## 📁 Project Structure
 
 📦 Social-links-profile/
--┣ 📄 index.html # Main HTML file
--┣ 📄 style.css # CSS styling
--┗ 📄 README.md # Project documentation
+- 📄 index.html # Main HTML file
+- 📄 style.css # CSS styling
+- 📄 README.md # Project documentation
 
 
 ---
