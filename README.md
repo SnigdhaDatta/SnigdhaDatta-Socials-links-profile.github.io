@@ -8,9 +8,7 @@ A clean and responsive web profile page to showcase your **social media links** 
 
 ## 🖼️ Preview
 
-> Add a screenshot of your profile here if you'd like. You can take a screenshot of your live page and save it as `preview.png`, then uncomment the line below.
-
-<!-- ![Preview Screenshot](preview.png) -->
+[Preview Screenshot](preview.png)
 
 ---
 
